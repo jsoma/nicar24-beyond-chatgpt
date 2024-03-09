@@ -6,6 +6,8 @@ Jonathan Soma
 
 jonathan.soma@gmail.com / [@dangerscarf](https://twitter.com/dangerscarf) / [jonathansoma.com](https://jonathansoma.com/)
 
+[Slides here](https://docs.google.com/presentation/d/1L1PMlTLKeJ99A4JkvflX0LYQ-aCEOqmfsCSs2mUxuvA/edit?usp=sharing)
+
 ## Notebooks
 
 [See them all](https://colab.research.google.com/github/jsoma/nicar24-beyond-chatgpt/)
