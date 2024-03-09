@@ -1,6 +1,8 @@
-# NICAR24: ML and AI from before and beyond ChatGPT
+# ML and AI from before and beyond ChatGPT
 
-NICAR 2024, Charm City, Jonathan Soma
+## NICAR 2024, Charm City
+
+Jonathan Soma
 
 jonathan.soma@gmail.com / [@dangerscarf](https://twitter.com/dangerscarf) / [jonathansoma.com](https://jonathansoma.com/)
 
